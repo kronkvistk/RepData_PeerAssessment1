@@ -1,4 +1,4 @@
-setwd("C:/Users/omistaja/Desktop/Coursera/ReprResearch/Ass1")
+setwd("C:/Users/omistaja/RepData_PeerAssessment1")
 
 ## Loading and preprocessing the data
 
